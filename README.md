@@ -1,2 +1,5 @@
-# githubrepository_dio_project
-Desafio de Projeto da Digital Innovation One sobre Git/GitHub
+# Desafio de Projeto sobre Git/GitHub da Digital Innovation One
+Repositório criado para o desafio de projeto
+
+## Links utéis
+[Sintaxe_Basica_Markdown](https://www.markdownguide.org/basic-syntax/)
